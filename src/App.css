@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
 
 }
 
@@ -16,7 +17,7 @@ body {
 }
 
 .body {
-  background: rgba(173, 164, 164, 0.548) !important;
+  background: hsl(212, 45%, 89%) !important;
   opacity: 85%;
   padding-top: 80px;
   padding-left: 400px;
